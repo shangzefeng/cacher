@@ -1,3 +1,0 @@
-Copyright (c) ${year}, ${devTeam}
-
-All rights reserved.
